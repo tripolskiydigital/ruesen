@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ruesen</string>
+    <string name="widget_label">Ruesen — RU · EN · ES</string>
+    <string name="widget_description">Слова и фразы на русском, английском и испанском с озвучкой</string>
+    <string name="next">Другое слово</string>
+    <string name="speak_en">Озвучить на английском</string>
+    <string name="speak_es">Озвучить на испанском</string>
+</resources>

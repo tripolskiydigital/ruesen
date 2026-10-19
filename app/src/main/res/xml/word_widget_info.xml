@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Full width, two rows. targetCell* is used by Launcher3-style launchers with >= 5 columns.
+     Simpler launchers derive spans from minWidth/minHeight in px divided by 70 (capped at 5):
+     72dp is 189px at 420dpi, i.e. two rows. -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/widget_description"
+    android:initialLayout="@layout/widget"
+    android:previewLayout="@layout/widget"
+    android:minWidth="320dp"
+    android:minHeight="72dp"
+    android:minResizeWidth="200dp"
+    android:minResizeHeight="60dp"
+    android:targetCellWidth="5"
+    android:targetCellHeight="2"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen|keyguard" />

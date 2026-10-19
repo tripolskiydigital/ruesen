@@ -1,0 +1,13 @@
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+# Built APKs go to GitHub Releases
+*.apk
+*.zip
+# Raw vocabulary drafts; the merged database is app/src/main/assets
+data/

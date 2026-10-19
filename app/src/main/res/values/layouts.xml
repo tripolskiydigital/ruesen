@@ -1,0 +1,5 @@
+<resources>
+    <!-- Same layout under a second id: switching ids on every card change makes the host inflate
+         the views anew, which restarts the marquee animation for the new text width. -->
+    <item name="widget_alt" type="layout">@layout/widget</item>
+</resources>

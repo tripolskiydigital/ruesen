@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The scrolled text holds the phrase twice, so shifting by half its width loops seamlessly.
+     startOffset applies on every repeat: the text rests at the start of each lap. -->
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="9000"
+    android:fromXDelta="0%"
+    android:interpolator="@android:anim/linear_interpolator"
+    android:repeatCount="infinite"
+    android:repeatMode="restart"
+    android:startOffset="1500"
+    android:toXDelta="-50%" />
