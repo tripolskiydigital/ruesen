@@ -1,0 +1,111 @@
+type	emoji	ru	en	es	es_ar
+w	🏋️	спортзал	gym	el gimnasio	
+w	💪	тренировка	workout	el entrenamiento	
+w	🧑‍🏫	тренер	coach	el entrenador	
+w	⚽	матч	match	el partido	
+w	🥅	гол	goal	el gol	
+w	🏐	мяч	ball	el balón	la pelota
+w	🎾	ракетка	racket	la raqueta	
+w	🏟️	корт	court	la pista	la cancha
+w	🌱	поле (спортивное)	field	el campo	la cancha
+w	🏊	бассейн	pool	la piscina	la pileta
+w	🚴	велик	bike	la bici	
+w	⛑️	шлем	helmet	el casco	
+w	👟	кроссовки	sneakers	las zapatillas de deporte	las zapatillas
+w	🏃	беговая дорожка	treadmill	la cinta de correr	la cinta
+w	🏋️	гантели и штанги	weights	las pesas	
+w	🤸	растяжка	stretching	el estiramiento	
+w	🔥	разминка	warm-up	el calentamiento	
+w	💪	мышца	muscle	el músculo	
+w	🔢	счёт (в игре)	score	el marcador	
+w	🏆	турнир	tournament	el torneo	
+w	🧑‍⚖️	судья	referee	el árbitro	
+w	📣	болельщик	fan	el aficionado	el hincha
+w	🎾	падел	padel	el pádel	
+w	⚽	футбол	soccer	el fútbol	
+w	🎾	теннис	tennis	el tenis	
+w	🧘	йога	yoga	el yoga	
+w	🏃	бег трусцой	jogging	el footing	el running
+w	🏊	плавание	swimming	la natación	
+w	🚴	велоспорт	cycling	el ciclismo	
+w	🥾	поход	hiking	el senderismo	el trekking
+w	🩱	купальник	swimsuit	el bañador	la malla
+w	🧖	полотенце	towel	la toalla	
+w	🧴	бутылка для воды	water bottle	la botella de agua	
+w	🎒	рюкзак	backpack	la mochila	
+w	👕	майка команды	jersey	la camiseta	
+w	🩳	шорты	shorts	los pantalones cortos	el short
+w	🧤	вратарь	goalkeeper	el portero	el arquero
+w	🧑	игрок	player	el jugador	
+w	🏆	чемпион	champion	el campeón	
+w	🏅	медаль	medal	la medalla	
+w	🏟️	стадион	stadium	el estadio	
+w	🎓	урок, занятие	lesson	la clase	
+w	🪪	абонемент	membership	el abono	la cuota
+w	🏁	забег, гонка	race	la carrera	
+w	🧘	коврик для йоги	mat	la esterilla	la colchoneta
+w	🎯	хобби	hobby	el pasatiempo	el hobby
+w	🎸	гитара	guitar	la guitarra	
+w	📷	фотоаппарат	camera	la cámara	
+w	🖼️	картина (живопись)	painting	el cuadro	
+w	♟️	шахматы	chess	el ajedrez	
+w	🎲	настольная игра	board game	el juego de mesa	
+w	📝	рецепт	recipe	la receta	
+w	📚	роман	novel	la novela	
+w	🎤	концерт	concert	el concierto	el recital
+w	🏛️	музей	museum	el museo	
+w	⛺	палатка	tent	la tienda de campaña	la carpa
+w	🥾	тропа	trail	el sendero	
+w	✏️	рисунок	drawing	el dibujo	
+w	🖌️	кисть	paintbrush	el pincel	
+w	🌱	семя	seed	la semilla	
+w	🌿	растение	plant	la planta	
+w	🪴	цветочный горшок	flowerpot	la maceta	
+w	📸	фотография (занятие)	photography	la fotografía	
+w	🎞️	кинотеатр	cinema	el cine	
+w	🎭	актёр	actor	el actor	
+w	🧳	чемодан	suitcase	la maleta	la valija
+w	🛂	паспорт	passport	el pasaporte	
+w	🔥	костёр	campfire	la hoguera	el fogón
+w	🍖	барбекю	barbecue	la barbacoa	el asado
+w	🎹	пианино	piano	el piano	
+p	🎾	Хочешь сыграть в падел в субботу?	Do you want to play padel on Saturday?	¿Quieres jugar al pádel el sábado?	¿Querés jugar al pádel el sábado?
+p	🏋️	Я хожу в спортзал три раза в неделю.	I go to the gym three times a week.	Voy al gimnasio tres veces por semana.	
+p	⚽	Кто выиграл матч?	Who won the match?	¿Quién ganó el partido?	
+p	🏃	Я готовлюсь к забегу на десять километров.	I'm training for a ten kilometer race.	Me estoy preparando para una carrera de diez kilómetros.	
+p	⏰	Чем ты занимаешься в свободное время?	What do you do in your free time?	¿Qué haces en tu tiempo libre?	¿Qué hacés en tu tiempo libre?
+p	🥾	Давай сходим в поход на выходных.	Let's go hiking this weekend.	Vamos a hacer senderismo este fin de semana.	Vamos a hacer trekking este finde.
+p	🎸	Я учусь играть на гитаре.	I'm learning to play the guitar.	Estoy aprendiendo a tocar la guitarra.	
+p	🎾	Можно забронировать корт на завтра?	Can I book a court for tomorrow?	¿Puedo reservar una pista para mañana?	¿Puedo reservar una cancha para mañana?
+p	⚽	Моя любимая команда играет сегодня.	My favorite team plays today.	Mi equipo favorito juega hoy.	
+p	🏊	Я плаваю в бассейне каждое утро.	I swim at the pool every morning.	Nado en la piscina todas las mañanas.	Nado en la pileta todas las mañanas.
+p	🚴	По воскресеньям мы катаемся на велосипедах.	We go cycling on Sundays.	Vamos en bici los domingos.	Salimos a andar en bici los domingos.
+p	🧘	Йога помогает мне расслабиться.	Yoga helps me relax.	El yoga me ayuda a relajarme.	
+p	📸	Я люблю фотографировать пейзажи.	I love taking photos of landscapes.	Me encanta hacer fotos de paisajes.	Me encanta sacar fotos de paisajes.
+p	🍳	Сегодня я пробую новый рецепт.	I'm trying a new recipe today.	Hoy pruebo una receta nueva.	
+p	📚	Сейчас я читаю очень интересный роман.	I'm reading a really interesting novel.	Estoy leyendo una novela muy interesante.	
+p	♟️	Ты умеешь играть в шахматы?	Can you play chess?	¿Sabes jugar al ajedrez?	¿Sabés jugar al ajedrez?
+p	🎲	Сыграем в настольную игру сегодня вечером?	Shall we play a board game tonight?	¿Jugamos a un juego de mesa esta noche?	
+p	🎨	Мне нравится рисовать по выходным.	I enjoy drawing on weekends.	Me gusta dibujar los fines de semana.	
+p	🌷	Я выращиваю помидоры на балконе.	I grow tomatoes on my balcony.	Cultivo tomates en mi balcón.	
+p	🎬	Хочешь пойти в кино в пятницу?	Do you want to go to the movies on Friday?	¿Quieres ir al cine el viernes?	¿Querés ir al cine el viernes?
+p	🏃	Я бегаю по утрам в парке.	I run in the park every morning.	Corro en el parque todas las mañanas.	Salgo a correr al parque todas las mañanas.
+p	🔥	Мне нужно размяться перед тренировкой.	I need to warm up before training.	Necesito calentar antes de entrenar.	
+p	💪	У меня болят мышцы после тренировки.	My muscles hurt after the workout.	Me duelen los músculos después del entrenamiento.	Me duelen los músculos después de entrenar.
+p	🔢	Какой сейчас счёт?	What's the score?	¿Cómo va el marcador?	¿Cómo va el partido?
+p	🥅	Он забил гол на последней минуте.	He scored a goal in the last minute.	Marcó un gol en el último minuto.	Metió un gol en el último minuto.
+p	📺	Я смотрю футбол с друзьями.	I'm watching the soccer game with friends.	Veo el fútbol con mis amigos.	Veo el partido con mis amigos.
+p	🏆	Наша команда вышла в финал.	Our team made it to the final.	Nuestro equipo llegó a la final.	
+p	🥾	Возьми воду и удобную обувь.	Bring water and comfortable shoes.	Trae agua y zapatos cómodos.	Traé agua y zapatillas cómodas.
+p	⛺	Мы ставим палатку у озера.	We're setting up the tent by the lake.	Montamos la tienda de campaña junto al lago.	Armamos la carpa al lado del lago.
+p	🍖	В воскресенье мы делаем барбекю.	We're having a barbecue on Sunday.	El domingo hacemos una barbacoa.	El domingo hacemos un asado.
+p	🧳	Я люблю путешествовать по Южной Америке.	I love traveling around South America.	Me encanta viajar por Sudamérica.	
+p	🛂	Не забудь паспорт.	Don't forget your passport.	No olvides tu pasaporte.	No te olvides el pasaporte.
+p	🎤	Вчера мы были на потрясающем концерте.	We went to an amazing concert yesterday.	Ayer fuimos a un concierto increíble.	Ayer fuimos a un recital increíble.
+p	🏛️	Музей открыт до шести.	The museum is open until six.	El museo está abierto hasta las seis.	
+p	🎧	Я слушаю музыку во время тренировки.	I listen to music while I work out.	Escucho música mientras entreno.	
+p	🪪	Сколько стоит абонемент в спортзал?	How much is a gym membership?	¿Cuánto cuesta el abono del gimnasio?	¿Cuánto sale la cuota del gimnasio?
+p	🏊	Ты умеешь плавать?	Can you swim?	¿Sabes nadar?	¿Sabés nadar?
+p	🎹	Мой брат играет на пианино.	My brother plays the piano.	Mi hermano toca el piano.	
+p	🟨	Судья показал жёлтую карточку.	The referee showed a yellow card.	El árbitro sacó una tarjeta amarilla.	
+p	🎾	Давай сыграем в теннис после работы.	Let's play tennis after work.	Juguemos al tenis después del trabajo.	Juguemos al tenis después del laburo.

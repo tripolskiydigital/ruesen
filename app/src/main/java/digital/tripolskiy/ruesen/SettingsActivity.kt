@@ -24,6 +24,7 @@ import androidx.compose.foundation.layout.safeDrawingPadding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Button
+import androidx.compose.material3.Checkbox
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
@@ -101,6 +102,32 @@ private fun SettingsScreen() {
             }
         }
 
+        Section("Темы") {
+            val enabled = read(version) { Settings.enabledDecks(context) }
+            Vocab.decks.forEach { deck ->
+                val cards = remember { Vocab.all(context).filter { it.deck == deck.id } }
+                val on = deck.id in enabled
+                Row(
+                    Modifier
+                        .fillMaxWidth()
+                        .clickable { changed { Settings.setDeckEnabled(context, deck.id, !on) } }
+                        .padding(vertical = 2.dp),
+                    verticalAlignment = Alignment.CenterVertically,
+                ) {
+                    Checkbox(checked = on, onCheckedChange = { changed { Settings.setDeckEnabled(context, deck.id, it) } })
+                    Column {
+                        Text("${deck.emoji}  ${deck.title}")
+                        Text(
+                            "слов: ${cards.count { !it.phrase }}, фраз: ${cards.count { it.phrase }}",
+                            style = MaterialTheme.typography.bodySmall,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                }
+            }
+            Hint("Карточки берутся из всех включённых тем. Хотя бы одна тема остаётся включённой.")
+        }
+
         Section("Когда менять слово") {
             Settings.changeModes.forEach { (value, label) ->
                 Choice(label, read(version) { Settings.changeMode(context) } == value) {
@@ -148,6 +175,10 @@ private fun SettingsScreen() {
                     changed { Settings.setEsVoice(context, tag) }
                 }
             }
+            Hint(
+                "Аргентинский вариант — это и текст (vos tenés, auto, celular, colectivo), и голос. " +
+                    "Если в синтезе речи нет аргентинского голоса, звучит латиноамериканский.",
+            )
         }
 
         val stats = read(version) { Engine.stats(context) }

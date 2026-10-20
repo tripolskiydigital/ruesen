@@ -1,0 +1,113 @@
+type	emoji	ru	en	es	es_ar
+w	🏫	детский сад	kindergarten	la guardería	el jardín
+w	👩‍🏫	воспитательница	kindergarten teacher	la profe	la seño
+w	🚪	группа (комната)	classroom	el aula	la sala
+w	🛝	детская площадка	playground	el parque infantil	el patio
+w	🛝	горка	slide	el tobogán	
+w		качели	swing	el columpio	la hamaca
+w	🏖️	песочница	sandbox	el cajón de arena	el arenero
+w	🧸	игрушка	toy	el juguete	
+w	🪆	кукла	doll	la muñeca	
+w	🧱	кубики	building blocks	los bloques de construcción	los bloques
+w	🖍️	восковые мелки	crayons	las ceras	los crayones
+w	🧴	клей	glue	el pegamento	la plasticola
+w	✂️	ножницы	scissors	las tijeras	
+w	🍱	ланч-бокс	lunchbox	la fiambrera	la vianda
+w	🍎	перекус	snack	el tentempié	la merienda
+w	😴	тихий час	nap	la siesta	
+w	🧷	подгузник	diaper	el pañal	
+w	🚽	горшок	potty	el orinal	la pelela
+w	👕	сменная одежда	change of clothes	la ropa de cambio	la muda de ropa
+w	🥼	рабочий халатик (для творчества)	smock	la bata	el delantal
+w	📒	тетрадь для связи	communication notebook	el cuaderno de comunicación	el cuaderno de comunicaciones
+w	👨‍👩‍👧	родительское собрание	parents' meeting	la reunión de padres	
+w	🎉	утренник	school event	la fiesta del cole	el acto
+w	🚌	экскурсия	field trip	la excursión	
+w	🎂	день рождения (праздник)	birthday party	la fiesta de cumpleaños	el cumple
+w	🧒	одногруппник	classmate	el compañero de clase	el compañero de sala
+w	🎵	потешка	nursery rhyme	la rima infantil	la canción infantil
+w	📖	сказка (книжка с картинками)	storybook	el cuento	
+w	🎭	кукла для театра	puppet	la marioneta	el títere
+w	⭐	наклейка	sticker	la pegatina	la calcomanía
+w	🎨	пальчиковые краски	finger paint	la pintura de dedos	la pintura con los dedos
+w		тесто для лепки	play dough	la plastilina	la masa
+w	🤗	объятие	hug	el abrazo	
+w	😭	истерика	tantrum	la rabieta	el berrinche
+w		вши	lice	los piojos	
+w	🌅	приведение утром	drop-off	la entrada	
+w	🏠	время забирать домой	pick-up	la recogida	la salida
+w		нагрудник	bib	el babero	
+w		одеяльце	blanket	la mantita	
+w	🍼	соска	pacifier	el chupete	
+w	🐻	мягкая игрушка	stuffed animal	el peluche	
+w	🧩	пазл	puzzle	el puzle	el rompecabezas
+w	📕	раскраска	coloring book	el libro de colorear	el libro para colorear
+w	🧶	поделка	craft	la manualidad	el trabajito
+w	🫧	мыльные пузыри	bubbles	las pompas de jabón	las burbujas
+w	🚲	трёхколёсный велосипед	tricycle	el triciclo	
+w	🦸	карнавальный костюм	costume	el disfraz	
+w	🎈	воздушный шарик	balloon	el globo	
+w	🎁	подарочек для гостей	party favor	el detalle para los invitados	la bolsita sorpresa
+w	🌙	колыбельная	lullaby	la nana	la canción de cuna
+w		заведующая	principal	la directora	
+w		адаптация	adaptation period	el periodo de adaptación	el período de adaptación
+p	🕓	Во сколько можно забирать?	What time is pick-up?	¿A qué hora es la recogida?	¿A qué hora es la salida?
+p	👵	Сегодня её заберёт бабушка.	Her grandmother will pick her up today.	Hoy la recogerá su abuela.	Hoy la viene a buscar su abuela.
+p	🍽️	Она хорошо поела?	Did she eat well?	¿Ha comido bien?	¿Comió bien?
+p	😴	Она спала в тихий час?	Did she sleep at nap time?	¿Ha dormido la siesta?	¿Durmió la siesta?
+p	😷	У неё лёгкий кашель.	She has a slight cough.	Tiene un poco de tos.	Tiene un poquito de tos.
+p		Завтра её не будет.	She won't come tomorrow.	Mañana no vendrá.	Mañana no viene.
+p	🤒	Пожалуйста, позвоните мне, если у неё поднимется температура.	Please call me if she gets a fever.	Por favor, llámame si le sube la fiebre.	Por favor, llamame si le sube la fiebre.
+p	🎒	Что ей нужно принести завтра?	What should she bring tomorrow?	¿Qué tiene que traer mañana?	
+p	👨‍👩‍👧	На этой неделе будет родительское собрание?	Is there a parents' meeting this week?	¿Hay reunión de padres esta semana?	
+p	🎂	Её пригласили на день рождения Софии.	She is invited to Sofia's birthday party.	Está invitada al cumpleaños de Sofía.	Está invitada al cumple de Sofía.
+p		Как она сегодня?	How did she do today?	¿Cómo le ha ido hoy?	¿Cómo le fue hoy?
+p		Она ещё привыкает.	She's still adapting.	Todavía se está adaptando.	
+p		Вам что-нибудь от нас нужно?	Do you need anything from us?	¿Necesitas algo de nosotros?	¿Necesitás algo de nosotros?
+p	👟	Надень ботинки.	Put on your shoes.	Ponte los zapatos.	Ponete las zapatillas.
+p	🧼	Давай помоем руки.	Let's wash our hands.	Vamos a lavarnos las manos.	
+p	👋	Попрощайся с друзьями.	Say goodbye to your friends.	Despídete de tus amigos.	Despedite de tus amigos.
+p	😄	Тебе было весело?	Did you have fun?	¿Te has divertido?	¿Te divertiste?
+p	🏠	Пора домой!	Time to go home!	¡Es hora de ir a casa!	
+p	📒	Вот её тетрадь для связи.	Here is her communication notebook.	Aquí tienes su cuaderno de comunicación.	Acá tenés su cuaderno de comunicaciones.
+p	✏️	Пожалуйста, запишите это в тетрадь.	Please write it in the notebook.	Por favor, apúntalo en el cuaderno.	Por favor, anotalo en el cuaderno.
+p	📝	В её рюкзаке записка.	There is a note in her backpack.	Hay una nota en su mochila.	Hay una notita en su mochila.
+p	🥜	У неё аллергия на арахис.	She is allergic to peanuts.	Es alérgica a los cacahuetes.	Es alérgica al maní.
+p	🥩	Она не ест мясо.	She doesn't eat meat.	No come carne.	
+p	🧷	Ей нужно сменить подгузник.	She needs a diaper change.	Necesita que le cambien el pañal.	
+p	🚽	Она учится ходить на горшок.	She is learning to use the potty.	Está aprendiendo a usar el orinal.	Está aprendiendo a usar la pelela.
+p		Сегодня у неё были «аварии»?	Did she have an accident today?	¿Ha tenido algún accidente hoy?	¿Tuvo algún accidente hoy?
+p	👕	Вот её сменная одежда.	Here is her change of clothes.	Aquí tienes su ropa de cambio.	Acá tenés su muda de ropa.
+p	🥱	Сегодня она сонная.	She is sleepy today.	Hoy tiene mucho sueño.	
+p		Ночью она плохо спала.	She didn't sleep well last night.	Anoche no durmió bien.	
+p	🤧	У неё насморк.	She has a runny nose.	Tiene mocos.	
+p	🌡️	Ночью у неё была температура.	She had a fever last night.	Anoche tuvo fiebre.	
+p	📅	В понедельник она вернётся.	She will be back on Monday.	Volverá el lunes.	Vuelve el lunes.
+p		В её группе были вши?	Were there lice in her class?	¿Ha habido piojos en su clase?	¿Hubo piojos en su sala?
+p	🙂	Ей уже лучше.	She is feeling better now.	Ya se encuentra mejor.	Ya está mejor.
+p	💊	Ей нужно дать лекарство в полдень.	She needs her medicine at noon.	Necesita su medicina al mediodía.	Necesita su remedio al mediodía.
+p		Ей можно прийти завтра?	Can she come back tomorrow?	¿Puede volver mañana?	
+p	🍲	Что сегодня в меню?	What is on the menu today?	¿Qué hay de comer hoy?	
+p	🍰	Можно принести торт на праздник?	Can I bring a cake for the party?	¿Puedo traer una tarta para la fiesta?	¿Puedo traer una torta para el cumple?
+p	🕑	Во сколько начинается праздник?	What time does the party start?	¿A qué hora empieza la fiesta?	¿A qué hora empieza el cumple?
+p	📍	Где будет праздник?	Where is the party?	¿Dónde es la fiesta?	¿Dónde es el cumple?
+p	🎉	Она придёт на праздник.	She will come to the party.	Irá a la fiesta.	Va a ir al cumple.
+p	🎁	Что лучше подарить?	What should we get as a gift?	¿Qué le podemos regalar?	
+p	🎭	Когда будет утренник?	When is the school event?	¿Cuándo es la fiesta del cole?	¿Cuándo es el acto?
+p	🎤	Она будет петь на утреннике.	She will sing at the school event.	Cantará en la fiesta del cole.	Va a cantar en el acto.
+p	📷	Можно снимать на утреннике?	Can we take photos at the event?	¿Podemos hacer fotos en la fiesta?	¿Podemos sacar fotos en el acto?
+p	🚌	Что ей нужно для экскурсии?	What does she need for the field trip?	¿Qué necesita para la excursión?	
+p	💶	Сколько стоит в месяц?	How much is the monthly fee?	¿Cuánto es la mensualidad?	¿Cuánto es la cuota?
+p		Можно с вами поговорить минутку?	Can I speak with you for a minute?	¿Puedo hablar contigo un momento?	¿Puedo hablar con vos un momento?
+p	🙏	Спасибо, что заботитесь о ней.	Thank you for taking care of her.	Gracias por cuidar de ella.	Gracias por cuidarla.
+p	❤️	Она любит ходить в детский сад.	She loves going to kindergarten.	Le encanta ir a la guardería.	Le encanta ir al jardín.
+p	😢	Сегодня утром она немного плакала.	She cried a little this morning.	Esta mañana ha llorado un poco.	Esta mañana lloró un poco.
+p		Она стесняется других детей.	She is shy with other children.	Es tímida con los otros niños.	Es tímida con los otros chicos.
+p	🧒	Она заводит новых друзей.	She is making new friends.	Está haciendo amigos nuevos.	
+p	🧸	Она не хочет делиться игрушками.	She doesn't want to share her toys.	No quiere compartir sus juguetes.	
+p	🛝	Она играла с другими детьми?	Did she play with the other kids?	¿Ha jugado con los otros niños?	¿Jugó con los otros chicos?
+p	🎒	Не забудь рюкзак.	Don't forget your backpack.	No olvides tu mochila.	No te olvides la mochila.
+p	🌳	Пойдём на площадку.	Let's go to the playground.	Vamos al parque.	Vamos a la plaza.
+p	🤝	Возьми меня за руку.	Hold my hand, please.	Dame la mano, por favor.	
+p	🤗	Хочешь обнимашки?	Do you want a hug?	¿Quieres un abrazo?	¿Querés un abrazo?
+p	👫	С кем ты сегодня играла?	Who did you play with today?	¿Con quién has jugado hoy?	¿Con quién jugaste hoy?

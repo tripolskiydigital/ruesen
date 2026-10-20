@@ -89,8 +89,8 @@ class WordWidget : AppWidgetProvider() {
         fun flag(lang: String): String = when (lang) {
             "en-GB" -> "🇬🇧"
             "en-US" -> "🇺🇸"
-            "es-US" -> "🇲🇽"
-            else -> "🇪🇸"
+            "es-ES" -> "🇪🇸"
+            else -> "🇦🇷"
         }
 
         /** Widget views for a widget [widthDp] wide. */
@@ -99,6 +99,7 @@ class WordWidget : AppWidgetProvider() {
             val e = card.entry
             val enVoice = Settings.enVoice(context)
             val esVoice = Settings.esVoice(context)
+            val es = e.spanish(Settings.argentine(context))
             val layout = if (Engine.layoutFlip(context)) R.layout.widget_alt else R.layout.widget
 
             val textDp = widthDp - CHROME_DP - (if (e.emoji.isEmpty()) 0f else EMOJI_DP)
@@ -109,13 +110,13 @@ class WordWidget : AppWidgetProvider() {
                 setViewVisibility(R.id.emoji, if (e.emoji.isEmpty()) View.GONE else View.VISIBLE)
                 line(context, R.id.ru, R.id.ru_track, R.id.ru_scroll, ru, bold = true, textDp)
                 line(context, R.id.en, R.id.en_track, R.id.en_scroll, e.en, bold = false, textDp - FLAG_DP - SPEAK_DP)
-                line(context, R.id.es, R.id.es_track, R.id.es_scroll, e.es, bold = false, textDp - FLAG_DP - SPEAK_DP)
+                line(context, R.id.es, R.id.es_track, R.id.es_scroll, es, bold = false, textDp - FLAG_DP - SPEAK_DP)
                 setTextViewText(R.id.en_flag, flag(enVoice))
                 setTextViewText(R.id.es_flag, flag(esVoice))
 
                 setOnClickPendingIntent(R.id.next, broadcast(context, 1, Intent(ACTION_NEXT)))
                 setOnClickPendingIntent(R.id.speak_en, broadcast(context, 2, speakIntent(e.en, enVoice)))
-                setOnClickPendingIntent(R.id.speak_es, broadcast(context, 3, speakIntent(e.es, esVoice)))
+                setOnClickPendingIntent(R.id.speak_es, broadcast(context, 3, speakIntent(es, esVoice)))
                 setOnClickPendingIntent(
                     android.R.id.background,
                     PendingIntent.getActivity(

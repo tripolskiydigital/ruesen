@@ -33,7 +33,8 @@ object Settings {
     )
 
     val enVoices = listOf("en-US" to "Американский", "en-GB" to "Британский")
-    val esVoices = listOf("es-ES" to "Испания", "es-US" to "Латинская Америка")
+    /** Spanish variant: decides both the text (Argentine words and voseo) and the voice. */
+    val esVoices = listOf("es-AR" to "Аргентина", "es-ES" to "Испания")
 
     private fun prefs(context: Context): SharedPreferences =
         context.getSharedPreferences("settings", Context.MODE_PRIVATE)
@@ -51,8 +52,24 @@ object Settings {
     fun enVoice(context: Context): String = prefs(context).getString("en_voice", "en-US")!!
     fun setEnVoice(context: Context, value: String) = prefs(context).edit().putString("en_voice", value).apply()
 
-    fun esVoice(context: Context): String = prefs(context).getString("es_voice", "es-ES")!!
+    fun esVoice(context: Context): String =
+        when (val v = prefs(context).getString("es_voice", null)) {
+            null, "es-US" -> "es-AR" // default, and the former "Latin America" option
+            else -> v
+        }
     fun setEsVoice(context: Context, value: String) = prefs(context).edit().putString("es_voice", value).apply()
+
+    fun argentine(context: Context): Boolean = esVoice(context) == "es-AR"
+
+    fun enabledDecks(context: Context): Set<String> =
+        prefs(context).getStringSet("decks", null) ?: Vocab.decks.map { it.id }.toSet()
+
+    fun setDeckEnabled(context: Context, id: String, enabled: Boolean) {
+        val decks = enabledDecks(context).toMutableSet()
+        if (enabled) decks += id else decks -= id
+        // At least one deck stays on, otherwise there is nothing to show.
+        if (decks.isNotEmpty()) prefs(context).edit().putStringSet("decks", decks).apply()
+    }
 
     fun locale(tag: String): Locale = Locale.forLanguageTag(tag)
 }

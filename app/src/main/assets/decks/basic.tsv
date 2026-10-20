@@ -1,0 +1,601 @@
+type	emoji	ru	en	es	es_ar
+w		я	I	yo	
+w		ты	you	tú	vos
+w	➕	и	and	y	
+w		к	to	a	
+w		тот	that	ese	
+w		в	in	en	
+w	❌	не	not	no	
+w		что	what	qué	
+w		этот	this	este	
+w		он	he	él	
+w		она	she	ella	
+w		мы	we	nosotros	
+w		они	they	ellos	
+w		для	for	para	
+w		с	with	con	
+w		но	but	pero	
+w		на	on	en	
+w		меня (мне)	me	me	
+w		мой	my	mi	
+w		твой	your	tu	
+w	👍	да	yes	sí	
+w	👎	нет	no	no	
+w	📍	здесь	here	aquí	acá
+w		там	there	allí	ahí
+w		сейчас	now	ahora	
+w		как	how	cómo	
+w		когда	when	cuándo	
+w		где	where	dónde	
+w		кто	who	quién	
+w	❓	почему	why	por qué	
+w		если	if	si	
+w		потому что	because	porque	
+w		или	or	o	
+w		поэтому	so	así que	
+w		очень	very	muy	
+w		больше	more	más	
+w		из	from	de	
+w		о (про)	about	sobre	
+w		только	only	solo	
+w		также	also	también	
+w		тогда	then	entonces	
+w		снова	again	otra vez	
+w	♾️	всегда	always	siempre	
+w	🚫	никогда	never	nunca	
+w	📅	сегодня	today	hoy	
+w		пожалуйста	please	por favor	
+w	😊	спасибо	thank you	gracias	
+w	👋	привет	hello	hola	
+w	🙏	прости	sorry	lo siento	perdón
+w	👋	до свидания	goodbye	adiós	chau
+w	1️⃣	один	one	uno	
+w	2️⃣	два	two	dos	
+w	3️⃣	три	three	tres	
+w	4️⃣	четыре	four	cuatro	
+w	5️⃣	пять	five	cinco	
+w	6️⃣	шесть	six	seis	
+w	7️⃣	семь	seven	siete	
+w	8️⃣	восемь	eight	ocho	
+w	9️⃣	девять	nine	nueve	
+w	🔟	десять	ten	diez	
+w	🥇	первый	first	primero	
+w	🏁	последний	last	último	
+w		хорошо	well	bien	
+w		всё ещё	still	todavía	
+w		уже	already	ya	
+w	🤷	может быть	maybe	quizás	tal vez
+w		действительно	really	realmente	
+w	🤝	вместе	together	juntos	
+w		что-то	something	algo	
+w		ничего	nothing	nada	
+w		всё	everything	todo	
+w	🧑	кто-то	someone	alguien	
+w	👥	все	everyone	todos	
+w		никто	nobody	nadie	
+w		его	his	su	
+w		её	her	su	
+w		наш	our	nuestro	
+w		их	their	su	
+w		эти	these	estos	
+w		те	those	esos	
+w		какой	which	cuál	
+w		сколько	how much	cuánto	
+w		чем	than	que	
+w		пока	while	mientras	
+w		хотя	although	aunque	
+w		без	without	sin	
+w		под	under	debajo de	
+w	↔️	между	between	entre	
+w		после	after	después de	
+w		до	before	antes de	
+w		над	above	encima de	
+w		за (позади)	behind	detrás de	
+w		возле	near	cerca de	
+w		до (пока не)	until	hasta	
+w		внутри	inside	dentro de	
+w		снаружи	outside	fuera de	
+w		перед	in front of	delante de	
+w		часто	often	a menudo	seguido
+w		иногда	sometimes	a veces	
+w		завтра	tomorrow	mañana	
+w		вчера	yesterday	ayer	
+w	➖	меньше	less	menos	
+w		плохо	badly	mal	
+w	🔜	скоро	soon	pronto	
+w		поздно	late	tarde	
+w	🌅	рано	early	temprano	
+w		почти	almost	casi	
+w		слишком	too	demasiado	
+w		много	a lot	mucho	
+w		немного	a little	un poco	
+w		достаточно	enough	bastante	
+w		далеко	far	lejos	
+w	🌍	везде	everywhere	en todas partes	en todos lados
+w	⚡	быстро	quickly	rápidamente	
+w	🐢	медленно	slowly	despacio	
+w	🌙	сегодня вечером	tonight	esta noche	
+w		даже	even	incluso	
+w	⬆️	вверх	up	arriba	
+w	⬇️	вниз	down	abajo	
+w	🔄	вокруг	around	alrededor	
+w	🔙	назад	back	atrás	
+w		его (ему)	him	lo	
+w		нас (нам)	us	nos	
+w		их (им)	them	los	
+w		каждый	each	cada	
+w	✌️	оба	both	ambos	
+w		извините	excuse me	perdón	
+w	👌	конечно	of course	por supuesto	
+w	0️⃣	ноль	zero	cero	
+w		двадцать	twenty	veinte	
+w	💯	сто	hundred	cien	
+w		тысяча	thousand	mil	
+w		понедельник	Monday	lunes	
+w		вторник	Tuesday	martes	
+w		среда	Wednesday	miércoles	
+w		четверг	Thursday	jueves	
+w		пятница	Friday	viernes	
+w		суббота	Saturday	sábado	
+w		воскресенье	Sunday	domingo	
+w		быть	be	ser	
+w		иметь	have	tener	
+w		делать	do	hacer	
+w	💬	сказать	say	decir	
+w	➡️	идти	go	ir	
+w		получать	get	conseguir	
+w	🛠️	создавать	make	crear	
+w	🧠	знать	know	saber	
+w	💭	думать	think	pensar	
+w	✋	брать	take	tomar	
+w	👀	видеть	see	ver	
+w		приходить	come	venir	
+w		хотеть	want	querer	
+w	👁️	смотреть	look	mirar	
+w		использовать	use	usar	
+w	🔎	находить	find	encontrar	
+w	🎁	давать	give	dar	
+w		рассказывать	tell	contar	
+w	💼	работать	work	trabajar	
+w	📞	звонить	call	llamar	
+w		пытаться	try	intentar	
+w	❓	спрашивать	ask	preguntar	
+w		нуждаться	need	necesitar	
+w		чувствовать	feel	sentir	
+w		становиться	become	convertirse	
+w	🚪	уходить	leave	salir	
+w		класть	put	poner	
+w		значить	mean	significar	
+w		держать	keep	mantener	
+w		позволять	let	permitir	
+w		начинать	begin	empezar	
+w		казаться	seem	parecer	
+w	🤝	помогать	help	ayudar	
+w		показывать	show	mostrar	
+w	👂	слышать	hear	oír	
+w	🎮	играть	play	jugar	
+w	🏃	бежать	run	correr	
+w		двигать	move	mover	
+w	🏠	жить	live	vivir	
+w		верить	believe	creer	
+w		приносить	bring	traer	
+w		случаться	happen	ocurrir	
+w	✍️	писать	write	escribir	
+w	🪑	садиться	sit	sentarse	
+w		терять	lose	perder	
+w	💳	платить	pay	pagar	
+w		знакомиться	meet	conocer	
+w		продолжать	continue	continuar	
+w	📚	учиться	learn	aprender	
+w	🔄	менять	change	cambiar	
+w		вести	lead	dirigir	
+w	💡	понимать	understand	entender	
+w	🔭	наблюдать	watch	observar	
+w		следовать	follow	seguir	
+w	🛑	останавливать	stop	parar	
+w	🗣️	говорить	speak	hablar	
+w	📖	читать	read	leer	
+w	💸	тратить	spend	gastar	
+w	🌱	расти	grow	crecer	
+w	🔓	открывать	open	abrir	
+w	🚶	ходить	walk	caminar	
+w	🏆	выигрывать	win	ganar	
+w		предлагать	offer	ofrecer	
+w		помнить	remember	recordar	
+w	❤️	любить	love	amar	
+w		появляться	appear	aparecer	
+w	🛒	покупать	buy	comprar	
+w	⏳	ждать	wait	esperar	
+w	💀	умирать	die	morir	
+w	📤	отправлять	send	enviar	
+w	🏗️	строить	build	construir	
+w		оставаться	stay	quedarse	
+w		падать	fall	caer	
+w	✂️	резать	cut	cortar	
+w		достигать	reach	alcanzar	
+w		убивать	kill	matar	
+w		поднимать	raise	levantar	
+w		проходить	pass	pasar	
+w		продавать	sell	vender	
+w		решать	decide	decidir	
+w	↩️	возвращаться	return	volver	
+w		объяснять	explain	explicar	
+w		нести	carry	llevar	
+w	🔨	ломать	break	romper	
+w	📥	принимать	receive	recibir	
+w		поддерживать	support	apoyar	
+w	🍽️	есть	eat	comer	
+w	🥤	пить	drink	beber	tomar
+w	😴	спать	sleep	dormir	
+w	🎤	петь	sing	cantar	
+w	💃	танцевать	dance	bailar	
+w	🏊	плавать	swim	nadar	
+w	🍳	готовить	cook	cocinar	
+w	🧼	мыть	wash	lavar	
+w	🎨	рисовать	draw	dibujar	
+w	✈️	летать	fly	volar	
+w	😂	смеяться	laugh	reír	
+w	😭	плакать	cry	llorar	
+w	🏫	учить	teach	enseñar	
+w	🦘	прыгать	jump	saltar	
+w	🔒	закрывать	close	cerrar	
+w		нравиться	like	gustar	
+w	🎧	слушать	listen	escuchar	
+w	🚗	водить	drive	conducir	manejar
+w	🧳	путешествовать	travel	viajar	
+w		выбирать	choose	elegir	
+w	👍	хороший	good	bueno	
+w	✨	новый	new	nuevo	
+w	🐘	большой	big	grande	
+w	🐁	маленький	small	pequeño	
+w	👴	старый	old	viejo	
+w	🧒	молодой	young	joven	
+w	📏	длинный	long	largo	
+w		короткий	short	corto	
+w	🏔️	высокий	high	alto	
+w	⬇️	низкий	low	bajo	
+w	⭐	важный	important	importante	
+w		разный	different	diferente	
+w		одинаковый	same	igual	
+w		возможный	possible	posible	
+w	✅	правильный	right	correcto	
+w	❌	неправильный	wrong	incorrecto	
+w		лёгкий	easy	fácil	
+w		трудный	difficult	difícil	
+w	🔥	горячий	hot	caliente	
+w	🥶	холодный	cold	frío	
+w		тёплый	warm	cálido	
+w	😊	счастливый	happy	feliz	
+w	😢	грустный	sad	triste	
+w	😠	злой	angry	enfadado	enojado
+w	🥱	уставший	tired	cansado	
+w		голодный	hungry	hambriento	
+w	🌸	красивый	beautiful	hermoso	
+w		уродливый	ugly	feo	
+w	⚡	быстрый	fast	rápido	
+w	🐌	медленный	slow	lento	
+w	💪	сильный	strong	fuerte	
+w		слабый	weak	débil	
+w	🤑	богатый	rich	rico	
+w		бедный	poor	pobre	
+w	🧹	чистый	clean	limpio	
+w		грязный	dirty	sucio	
+w		полный	full	lleno	
+w		пустой	empty	vacío	
+w		тяжёлый	heavy	pesado	
+w	🪶	лёгкий (по весу)	light	ligero	liviano
+w	🌑	тёмный	dark	oscuro	
+w	☀️	яркий	bright	brillante	
+w	🤫	тихий	quiet	silencioso	
+w	🍬	сладкий	sweet	dulce	
+w	😋	вкусный	delicious	delicioso	
+w		безопасный	safe	seguro	
+w	⚠️	опасный	dangerous	peligroso	
+w	🆓	бесплатный	free	gratis	
+w		занятой	busy	ocupado	
+w		готовый	ready	listo	
+w	🤒	больной	sick	enfermo	
+w		здоровый	healthy	sano	
+w	🔴	красный	red	rojo	
+w	🔵	синий	blue	azul	
+w	🟢	зелёный	green	verde	
+w	🟡	жёлтый	yellow	amarillo	
+w	⚫	чёрный	black	negro	
+w	⚪	белый	white	blanco	
+w	🟠	оранжевый	orange	naranja	
+w	🟣	фиолетовый	purple	morado	violeta
+w	🟤	коричневый	brown	marrón	
+w		серый	gray	gris	
+w	🩷	розовый	pink	rosa	
+w		дешёвый	cheap	barato	
+w	💰	дорогой	expensive	caro	
+w		добрый	kind	amable	
+w		умный	smart	inteligente	
+w		серьёзный	serious	serio	
+w		широкий	wide	ancho	
+w		узкий	narrow	estrecho	angosto
+w	⏰	время	time	el tiempo	
+w	📅	год	year	el año	
+w	🌞	день	day	el día	
+w	🗓️	неделя	week	la semana	
+w	📆	месяц	month	el mes	
+w	👥	люди	people	la gente	
+w	👨	мужчина	man	el hombre	
+w	👩	женщина	woman	la mujer	
+w	🧒	ребёнок	child	el niño	
+w	🤝	друг	friend	el amigo	
+w	👨‍👩‍👧	семья	family	la familia	
+w	🤱	мать	mother	la madre	
+w	👨‍🍼	отец	father	el padre	
+w	🏠	дом	house	la casa	
+w	🏡	родной дом	home	el hogar	
+w	💧	вода	water	el agua	
+w	🍽️	еда	food	la comida	
+w	💰	деньги	money	el dinero	la plata
+w	🏙️	город	city	la ciudad	
+w	🗺️	страна	country	el país	
+w	🌍	мир	world	el mundo	
+w	🌱	жизнь	life	la vida	
+w	✋	рука	hand	la mano	
+w	👁️	глаз	eye	el ojo	
+w	🗣️	голова	head	la cabeza	
+w	🚗	машина	car	el coche	el auto
+w	📕	книга	book	el libro	
+w	📱	телефон	phone	el teléfono	
+w	🚪	дверь	door	la puerta	
+w	🛋️	комната	room	la habitación	el cuarto
+w	🏫	школа	school	la escuela	
+w	📛	имя	name	el nombre	
+w	🌙	ночь	night	la noche	
+w	🌅	утро	morning	la mañana	
+w	☀️	солнце	sun	el sol	
+w	🐕	собака	dog	el perro	
+w	🐈	кошка	cat	el gato	
+w	🍞	хлеб	bread	el pan	
+w	☕	кофе	coffee	el café	
+w	🎵	музыка	music	la música	
+w	⛅	погода	weather	el clima	
+w	❓	вопрос	question	la pregunta	
+w		проблема	problem	el problema	
+w	💡	идея	idea	la idea	
+w		часть	part	la parte	
+w	📍	место	place	el lugar	
+w		вещь	thing	la cosa	
+w	📖	история	story	la historia	
+w		факт	fact	el hecho	
+w		случай	case	el caso	
+w		точка	point	el punto	
+w	🛤️	путь	way	el camino	
+w	💬	слово	word	la palabra	
+w	🔚	конец	end	el final	
+w		сторона	side	el lado	
+w		группа	group	el grupo	
+w		компания	company	la empresa	
+w	🏛️	правительство	government	el gobierno	
+w		система	system	el sistema	
+w		программа	program	el programa	
+w		результат	result	el resultado	
+w		причина	reason	la razón	
+w		уровень	level	el nivel	
+w	👧	девочка	girl	la chica	
+w	👦	мальчик	boy	el chico	
+w	😀	лицо	face	la cara	
+w	🧍	тело	body	el cuerpo	
+w	🦶	нога (ступня)	foot	el pie	
+w	💪	рука (от плеча до кисти)	arm	el brazo	
+w	🦵	нога (от бедра)	leg	la pierna	
+w	❤️	сердце	heart	el corazón	
+w	👄	рот	mouth	la boca	
+w	👃	нос	nose	la nariz	
+w	👂	ухо	ear	la oreja	
+w	💇	волосы	hair	el pelo	
+w	☝️	палец	finger	el dedo	
+w	🦷	зуб	tooth	el diente	
+w	🥛	молоко	milk	la leche	
+w	🥚	яйцо	egg	el huevo	
+w	🥩	мясо	meat	la carne	
+w	🐟	рыба	fish	el pescado	
+w	🍓	фрукт	fruit	la fruta	
+w	🍎	яблоко	apple	la manzana	
+w	🧀	сыр	cheese	el queso	
+w	🍚	рис	rice	el arroz	
+w	🍲	суп	soup	la sopa	
+w	🍬	сахар	sugar	el azúcar	
+w	🧂	соль	salt	la sal	
+w	🍵	чай	tea	el té	
+w	🍷	вино	wine	el vino	
+w	🍺	пиво	beer	la cerveza	
+w	🥔	картофель	potato	la patata	la papa
+w	🍅	помидор	tomato	el tomate	
+w	🍗	курица	chicken	el pollo	
+w	🍰	торт	cake	el pastel	la torta
+w	🥐	завтрак	breakfast	el desayuno	
+w	🥪	обед	lunch	el almuerzo	
+w	🍝	ужин	dinner	la cena	
+w	🧅	лук (овощ)	onion	la cebolla	
+w	🐦	птица	bird	el pájaro	
+w	🐎	лошадь	horse	el caballo	
+w	🐄	корова	cow	la vaca	
+w	🐖	свинья	pig	el cerdo	
+w	🍽	стол	table	la mesa	
+w	🪑	стул	chair	la silla	
+w	🛏️	кровать	bed	la cama	
+w	🪟	окно	window	la ventana	
+w	🍳	кухня	kitchen	la cocina	
+w	🔑	ключ	key	la llave	
+w	🛣️	улица	street	la calle	
+w	🌷	сад	garden	el jardín	
+w	🧱	стена	wall	la pared	
+w	🛁	ванная	bathroom	el baño	
+w	🕰️	часы	clock	el reloj	
+w	🚌	автобус	bus	el autobús	el colectivo
+w	🚆	поезд	train	el tren	
+w	✈️	самолёт	plane	el avión	
+w	🚲	велосипед	bicycle	la bicicleta	
+w	🚢	корабль	ship	el barco	
+w	🎫	билет	ticket	el billete	el boleto
+w	🛫	аэропорт	airport	el aeropuerto	
+w	🚉	вокзал	station	la estación	
+w	🌳	дерево	tree	el árbol	
+w	🌸	цветок	flower	la flor	
+w	🌊	море	sea	el mar	
+w	🏞️	река	river	el río	
+w	⛰️	гора	mountain	la montaña	
+w	🌛	луна	moon	la luna	
+w	⭐	звезда	star	la estrella	
+w	🌧️	дождь	rain	la lluvia	
+w	❄️	снег	snow	la nieve	
+w	💨	ветер	wind	el viento	
+w	🔥	огонь	fire	el fuego	
+w	☁️	небо	sky	el cielo	
+w	🏖️	пляж	beach	la playa	
+w	🌲	лес	forest	el bosque	
+w	🌥️	облако	cloud	la nube	
+w	👕	рубашка	shirt	la camisa	
+w	👟	ботинок	shoe	el zapato	
+w	👒	шляпа	hat	el sombrero	
+w	👗	платье	dress	el vestido	
+w	🧥	пальто	coat	el abrigo	
+w	👜	сумка	bag	la bolsa	el bolso
+w	🧥	куртка	jacket	la chaqueta	la campera
+w	👩‍🏫	учитель	teacher	el profesor	
+w	👨‍⚕️	врач	doctor	el médico	
+w	🚖	водитель	driver	el conductor	el chofer
+w	🧑‍🎓	студент	student	el estudiante	
+w	🤵	официант	waiter	el camarero	el mozo
+w	👩‍⚕️	медсестра	nurse	la enfermera	
+w	👨‍🌾	фермер	farmer	el agricultor	
+w	🎨	художник	artist	el artista	
+w	💻	компьютер	computer	el ordenador	la computadora
+w	✉️	письмо	letter	la carta	
+w	📄	бумага	paper	el papel	
+w	📷	фотография	photo	la foto	
+w	🎮	игра	game	el juego	
+w	🎬	фильм	film	la película	
+w	🎶	песня	song	la canción	
+w	📰	новость	news	la noticia	
+w	🏪	магазин	shop	la tienda	el negocio
+w	🛒	рынок	market	el mercado	
+w	🏥	больница	hospital	el hospital	
+w	🏢	офис	office	la oficina	
+w	🏷️	цена	price	el precio	
+w		команда	team	el equipo	
+w	🕐	час	hour	la hora	
+w	⏱️	минута	minute	el minuto	
+w		момент	moment	el momento	
+w		смерть	death	la muerte	
+w		здоровье	health	la salud	
+w	🗣️	язык	language	el idioma	
+w		голос	voice	la voz	
+w	⚔️	война	war	la guerra	
+w	🕊️	мир (отсутствие войны)	peace	la paz	
+w	⚖️	закон	law	la ley	
+w	🏘️	деревня	village	el pueblo	
+w	🎂	день рождения	birthday	el cumpleaños	
+w	🎁	подарок	gift	el regalo	
+w	💭	сон	dream	el sueño	
+w	🏖	лето	summer	el verano	
+w	⛄	зима	winter	el invierno	
+w	🌼	весна	spring	la primavera	
+w	🍂	осень	autumn	el otoño	
+w	🌆	вечер	evening	la tarde	
+p	👋	Привет!	Hi!	¡Hola!	
+p	🙏	Спасибо!	Thank you!	¡Gracias!	
+p	🙏	Пожалуйста.	Please.	Por favor.	
+p	🙋	Как дела?	How are you?	¿Qué tal?	¿Cómo andás?
+p	😊	Не за что.	You're welcome.	De nada.	
+p	🙋	Извините.	Excuse me.	Disculpe.	Perdón.
+p	😔	Прости.	I'm sorry.	Lo siento.	Perdoname.
+p	👋	Пока!	Bye!	¡Adiós!	¡Chau!
+p	🌅	Доброе утро!	Good morning!	¡Buenos días!	¡Buen día!
+p	☀️	Добрый день!	Good afternoon!	¡Buenas tardes!	
+p	🌙	Спокойной ночи!	Good night!	¡Buenas noches!	
+p	🤝	Приятно познакомиться.	Nice to meet you.	Mucho gusto.	
+p	👋	До встречи.	See you later.	Hasta luego.	Nos vemos.
+p	📅	Увидимся завтра.	See you tomorrow.	Hasta mañana.	Nos vemos mañana.
+p		Да.	Yes.	Sí.	
+p		Нет.	No.	No.	
+p	😊	Всё хорошо, спасибо. А ты?	Fine, thanks. And you?	Bien, gracias. ¿Y tú?	Bien, gracias. ¿Y vos?
+p	🤷	Я не понимаю.	I don't understand.	No entiendo.	
+p	🔁	Повтори, пожалуйста.	Can you repeat that?	¿Puedes repetirlo?	¿Me podés repetir?
+p	❓	Что это значит?	What does this mean?	¿Qué significa esto?	
+p	🐢	Говори медленнее, пожалуйста.	Speak slowly, please.	Habla más despacio, por favor.	Hablá más despacio, por favor.
+p	🤷	Я не знаю.	I don't know.	No lo sé.	No sé.
+p	🗣️	Ты говоришь по-английски?	Do you speak English?	¿Hablas inglés?	¿Hablás inglés?
+p	📚	Я только учусь.	I'm still learning.	Todavía estoy aprendiendo.	
+p	🙋	Как тебя зовут?	What's your name?	¿Cómo te llamas?	¿Cómo te llamás?
+p	🌍	Откуда ты?	Where are you from?	¿De dónde eres?	¿De dónde sos?
+p	💡	Я понимаю.	I understand.	Entiendo.	
+p	👂	Что ты сказал?	What did you say?	¿Qué dijiste?	
+p	⏳	Одну минуту.	Just a moment.	Un momento.	
+p	✋	Подожди.	Hold on.	Espera.	Esperá.
+p	🚻	Где туалет?	Where is the bathroom?	¿Dónde está el baño?	
+p	💸	Сколько это стоит?	How much does it cost?	¿Cuánto cuesta?	¿Cuánto sale?
+p	🧾	Счёт, пожалуйста.	The check, please.	La cuenta, por favor.	
+p	☕	Мне кофе, пожалуйста.	I'd like a coffee.	Quisiera un café.	
+p	🚉	Где вокзал?	Where is the station?	¿Dónde está la estación?	
+p	⬅️	Поверни налево.	Turn left.	Gira a la izquierda.	Doblá a la izquierda.
+p	➡️	Поверни направо.	Turn right.	Gira a la derecha.	Doblá a la derecha.
+p	⬆️	Иди прямо.	Go straight ahead.	Sigue recto.	Seguí derecho.
+p	🚶	Это далеко?	Is it far?	¿Está lejos?	¿Queda lejos?
+p	📍	Это рядом?	Is it close?	¿Está cerca?	¿Queda cerca?
+p	🚕	Где я могу взять такси?	Where can I get a taxi?	¿Dónde puedo tomar un taxi?	
+p	📖	Можно меню, пожалуйста?	Can I see the menu, please?	¿Puedo ver el menú, por favor?	
+p	🍽️	Стол на двоих, пожалуйста.	A table for two, please.	Una mesa para dos, por favor.	
+p	💧	Стакан воды, пожалуйста.	A glass of water, please.	Un vaso de agua, por favor.	
+p	🤧	У меня аллергия.	I have an allergy.	Tengo una alergia.	
+p	💳	Можно оплатить картой?	Can I pay by card?	¿Puedo pagar con tarjeta?	
+p	💰	Это слишком дорого.	That's too expensive.	Es demasiado caro.	Es carísimo.
+p	🏧	Где ближайший банкомат?	Where is the nearest ATM?	¿Dónde está el cajero más cercano?	¿Dónde hay un cajero cerca?
+p	🩺	Мне нужен врач.	I need a doctor.	Necesito un médico.	
+p	🚓	Вызови полицию!	Call the police!	¡Llama a la policía!	¡Llamá a la policía!
+p	🗺️	Я не могу найти дорогу.	I can't find my way.	No encuentro el camino.	
+p	🆘	Мне нужна помощь.	I need help.	Necesito ayuda.	
+p	🚨	Помогите!	Help!	¡Socorro!	¡Ayuda!
+p	🤝	Можешь мне помочь?	Can you help me?	¿Puedes ayudarme?	¿Podés ayudarme?
+p	🚏	Где остановка?	Where is the bus stop?	¿Dónde está la parada de autobús?	¿Dónde está la parada del colectivo?
+p	🎫	Один билет, пожалуйста.	One ticket, please.	Un billete, por favor.	Un boleto, por favor.
+p	🚆	Когда отходит поезд?	When does the train leave?	¿Cuándo sale el tren?	
+p	🏨	У меня есть бронь.	I have a reservation.	Tengo una reserva.	
+p	📶	Какой пароль от Wi-Fi?	What's the Wi-Fi password?	¿Cuál es la contraseña del wifi?	
+p	🍴	Я хочу есть.	I'm hungry.	Tengo hambre.	
+p	🥤	Я хочу пить.	I'm thirsty.	Tengo sed.	
+p	😴	Я устал.	I'm tired.	Estoy cansado.	
+p	👍	Мне нравится.	I like it.	Me gusta.	
+p	👎	Мне не нравится.	I don't like it.	No me gusta.	
+p	❤️	Я люблю тебя.	I love you.	Te quiero.	
+p	🥶	Мне холодно.	I'm cold.	Tengo frío.	
+p	🥵	Мне жарко.	I'm hot.	Tengo calor.	
+p	🤒	Мне плохо.	I don't feel well.	No me siento bien.	
+p	😊	Я рад тебя видеть.	I'm glad to see you.	Me alegro de verte.	Qué alegría verte.
+p	🏃	Я спешу.	I'm in a hurry.	Tengo prisa.	Estoy apurado.
+p	🚪	Мне пора идти.	I have to go.	Tengo que irme.	Me tengo que ir.
+p	💭	Я скучаю по тебе.	I miss you.	Te echo de menos.	Te extraño.
+p	🤝	Я согласен.	I agree.	Estoy de acuerdo.	
+p	🕐	Который час?	What time is it?	¿Qué hora es?	
+p	🌃	Увидимся сегодня вечером.	See you tonight.	Nos vemos esta noche.	
+p	⏰	Я опаздываю.	I'm late.	Llego tarde.	
+p	🕒	Во сколько?	At what time?	¿A qué hora?	
+p	✅	Конечно.	Of course.	Claro.	
+p	🙌	Без проблем.	No problem.	No hay problema.	
+p	🍀	Удачи!	Good luck!	¡Buena suerte!	¡Suerte!
+p	☀️	Хорошего дня!	Have a nice day!	¡Que tengas un buen día!	
+p	🥂	За здоровье!	Cheers!	¡Salud!	
+p	😋	Приятного аппетита!	Enjoy your meal!	¡Buen provecho!	
+p	🎂	С днём рождения!	Happy birthday!	¡Feliz cumpleaños!	
+p	🎉	Поздравляю!	Congratulations!	¡Felicidades!	¡Felicitaciones!
+p	👌	Отлично!	Great!	¡Genial!	
+p	😎	Здорово!	Awesome!	¡Qué bueno!	
+p	😮	Правда?	Really?	¿En serio?	
+p	🙀	Не может быть!	No way!	¡No puede ser!	
+p		Что случилось?	What happened?	¿Qué pasó?	
+p		Ничего страшного.	It's okay.	No pasa nada.	
+p	🧘	Не волнуйся.	Don't worry.	No te preocupes.	Quedate tranquilo.
+p		Я тоже.	Me too.	Yo también.	
+p		Может быть.	Maybe.	Quizás.	Tal vez.
+p	🍽️	Что посоветуешь?	What do you recommend?	¿Qué recomiendas?	¿Qué recomendás?
+p	💛	Береги себя.	Take care.	Cuídate.	Cuidate.
+p	🏠	Добро пожаловать!	Welcome!	¡Bienvenido!	
+p	🧳	Счастливого пути!	Have a safe trip!	¡Buen viaje!	
+p	🔎	Как это называется?	What is this called?	¿Cómo se llama esto?	
+p	😋	Вкусно!	It's delicious!	¡Está delicioso!	¡Está riquísimo!

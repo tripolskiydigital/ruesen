@@ -46,7 +46,10 @@ object Engine {
         val currentEntry = Vocab.byKey(context, currentKey)
 
         val phrase = currentEntry?.phrase == false
-        val pool = if (phrase) Vocab.phrases(context) else Vocab.words(context)
+        val words = Vocab.words(context)
+        val phrases = Vocab.phrases(context)
+        // Alternate kinds; fall back to the other kind if the enabled decks lack this one.
+        val pool = (if (phrase) phrases else words).ifEmpty { words + phrases }
 
         val repeatEvery = Settings.repeatEvery(context)
         val sinceRepeat = p.getInt("since_repeat", 0)
@@ -68,7 +71,7 @@ object Engine {
             }
             else -> {
                 // Everything of this kind has been shown: keep cycling through the earliest due items.
-                pick = pool.filter { it.key != currentKey }.minBy { history[it.key]?.due ?: 0L }
+                pick = pool.filter { it.key != currentKey }.minByOrNull { history[it.key]?.due ?: 0L } ?: pool.first()
                 repeat = true
             }
         }

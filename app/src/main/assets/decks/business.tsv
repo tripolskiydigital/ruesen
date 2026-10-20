@@ -1,0 +1,151 @@
+type	emoji	ru	en	es	es_ar
+w	🤝	клиент	client	el cliente	
+w	📄	коммерческое предложение	proposal	la propuesta	
+w	💬	расчёт стоимости	quote	el presupuesto	la cotización
+w	💰	бюджет	budget	el presupuesto	
+w	⏰	крайний срок	deadline	la fecha límite	la fecha de entrega
+w	📦	результат работ	deliverable	el entregable	
+w	📝	договор	contract	el contrato	
+w	🧾	счёт на оплату	invoice	la factura	
+w	💵	предоплата	deposit	el anticipo	la seña
+w	💳	рассрочка	installments	los pagos a plazos	las cuotas
+w	🏷️	скидка	discount	el descuento	
+w	👥	встреча	meeting	la reunión	
+w	💭	обратная связь	feedback	los comentarios	
+w	📋	требования	requirements	los requisitos	
+w	🚀	запуск	launch	el lanzamiento	
+w	🔧	обслуживание	maintenance	el mantenimiento	
+w	🛟	техническая поддержка	technical support	el soporte técnico	
+w	🖥️	хостинг	hosting	el alojamiento web	el hosting
+w	🌐	домен	domain	el dominio	
+w	📅	график работ	timeline	el cronograma	
+w	🏁	этап проекта	milestone	el hito	
+w	🎯	объём работ	scope	el alcance	
+w	✏️	правка	revision	la revisión	la corrección
+w	🥊	конкурент	competitor	el competidor	
+w	🎨	бренд	brand	la marca	
+w	🖼️	логотип	logo	el logotipo	el logo
+w	⏱️	почасовая ставка	hourly rate	la tarifa por hora	el valor por hora
+w	💸	платёж	payment	el pago	
+w	💻	фрилансер	freelancer	el autónomo	el freelancer
+w	✅	соглашение	agreement	el acuerdo	
+w	🌐	сайт	website	el sitio web	
+w	🛒	интернет-магазин	online store	la tienda en línea	la tienda online
+w	🛒	корзина покупок	shopping cart	el carrito de compras	el carrito
+w	💳	оформление заказа	checkout	el proceso de pago	el checkout
+w	🏦	платёжный шлюз	payment gateway	la pasarela de pago	
+w	📃	посадочная страница	landing page	la página de aterrizaje	la landing
+w	📱	мобильное приложение	mobile app	la aplicación móvil	la app
+w	🎛️	админ-панель	admin panel	el panel de administración	
+w	📆	бронирование	booking	la reserva	
+w	📜	онлайн-меню	online menu	el menú en línea	el menú online
+w	🎁	программа лояльности	loyalty program	el programa de fidelización	el programa de fidelidad
+w	📚	каталог	catalog	el catálogo	
+w	🖌️	макет дизайна	mockup	la maqueta	
+w	🧪	прототип	prototype	el prototipo	
+w	🙂	пользовательский опыт	user experience	la experiencia de usuario	
+w	📐	адаптивный дизайн	responsive design	el diseño adaptable	el diseño responsive
+w	🔍	поисковая оптимизация	search engine optimization	la optimización para buscadores	el posicionamiento SEO
+w	📊	аналитика	analytics	la analítica web	
+w	📈	конверсия	conversion	la conversión	
+w	📲	социальные сети	social media	las redes sociales	
+w	🔌	интеграция	integration	la integración	
+w	🗄️	база данных	database	la base de datos	
+w	🔒	SSL-сертификат	SSL certificate	el certificado SSL	
+w	🔔	уведомление	notification	la notificación	
+w	🧩	плагин	plugin	el complemento	el plugin
+w	🧱	шаблон	template	la plantilla	
+w	📝	система управления сайтом	content management system	el gestor de contenidos	el administrador de contenidos
+w	💳	онлайн-оплата	online payment	el pago en línea	el pago online
+w	🚚	отправка товаров	shipping	el envío	
+w	🛍️	карточка товара	product page	la página de producto	
+w	⬆️	обновление	update	la actualización	
+w	🐞	ошибка в программе	bug	el error	
+w	💾	резервная копия	backup	la copia de seguridad	el backup
+w	👗	коллекция	collection	la colección	
+w	📏	размер одежды	size	la talla	el talle
+w	📖	лукбук	lookbook	el lookbook	
+w	🚪	примерочная	fitting room	el probador	
+w	📦	оптовая торговля	wholesale	la venta al por mayor	la venta mayorista
+w	🛍️	розничная торговля	retail	la venta al por menor	la venta minorista
+w	📐	таблица размеров	size chart	la guía de tallas	la guía de talles
+w	👚	образ (комплект одежды)	outfit	el conjunto	el look
+w	🧵	ткань	fabric	la tela	
+w	🍽️	бронь столика	reservation	la reserva de mesa	
+w	🛵	доставка еды	delivery	el reparto a domicilio	el delivery
+w	🥡	еда навынос	takeaway	la comida para llevar	
+w	🍳	шеф-повар	chef	el chef	
+w	🧾	заказ для кухни	kitchen order	la comanda	
+w	📱	меню по QR-коду	QR menu	el menú con código QR	el menú con QR
+w	💵	чаевые	tip	la propina	
+w	🍽️	блюдо	dish	el plato	
+w	🏪	магазин (торговая точка)	store	la tienda	el local
+w	🧑‍💼	владелец	owner	el dueño	
+w	👤	сотрудник	employee	el empleado	
+w	📦	товарный запас	stock	las existencias	el stock
+w	🚛	поставщик	supplier	el proveedor	
+w	🏬	филиал	branch	la sucursal	
+w	🙋	покупатель	customer	el cliente	
+w	📦	заказ (покупки)	order	el pedido	
+w	🧾	кассовый чек	receipt	el recibo	el ticket
+w	🏷️	распродажа	sale	las rebajas	la liquidación
+p	📄	Я могу отправить вам расчёт на этой неделе.	I can send you a quote this week.	Puedo enviarte un presupuesto esta semana.	Te puedo mandar un presupuesto esta semana.
+p	💰	Какой у вас бюджет?	What is your budget?	¿Cuál es tu presupuesto?	¿Qué presupuesto tenés?
+p	⏰	К какому сроку вам нужно?	When do you need it?	¿Cuándo lo necesitas?	¿Para cuándo lo necesitás?
+p	📅	Проект займёт около четырёх недель.	The project takes about four weeks.	El proyecto lleva unas cuatro semanas.	
+p	💵	Мы работаем по предоплате пятьдесят процентов.	We work with a fifty percent deposit.	Trabajamos con un cincuenta por ciento de anticipo.	Trabajamos con una seña del cincuenta por ciento.
+p	🎨	Вот первая версия дизайна.	Here is the first version of the design.	Aquí tienes la primera versión del diseño.	Acá tenés la primera versión del diseño.
+p	🖼️	У вас есть логотип и фирменные цвета?	Do you have a logo and brand colors?	¿Tienes un logotipo y colores de marca?	¿Tenés un logo y colores de marca?
+p	📱	Сайт будет работать на мобильных телефонах.	The site will work on mobile phones.	El sitio funcionará en los teléfonos móviles.	El sitio va a funcionar en los celulares.
+p	💳	Клиенты смогут платить онлайн.	Customers can pay online.	Los clientes podrán pagar en línea.	Los clientes van a poder pagar online.
+p	📞	Назначим созвон?	Shall we schedule a call?	¿Programamos una llamada?	¿Agendamos una llamada?
+p	🔧	Обслуживание оплачивается ежемесячно.	Maintenance is billed monthly.	El mantenimiento se factura mensualmente.	El mantenimiento se factura todos los meses.
+p	💭	Можете прислать примеры, которые вам нравятся?	Can you send me examples you like?	¿Puedes enviarme ejemplos que te gusten?	¿Podés mandarme ejemplos que te gusten?
+p	🔌	Мы можем интегрировать это с Mercado Pago.	We can integrate it with Mercado Pago.	Podemos integrarlo con Mercado Pago.	
+p	🍽️	Клиенты смогут забронировать столик онлайн.	Customers can book a table online.	Los clientes podrán reservar mesa en línea.	Los clientes van a poder reservar mesa online.
+p	🎯	Какова цель вашего сайта?	What is the goal of your website?	¿Cuál es el objetivo de tu sitio web?	
+p	👥	Кто ваши основные клиенты?	Who are your main customers?	¿Quiénes son tus clientes principales?	
+p	🌐	У вас уже есть домен?	Do you already have a domain?	¿Ya tienes un dominio?	¿Ya tenés un dominio?
+p	🛒	Вы уже продаёте товары онлайн?	Do you sell products online yet?	¿Ya vendes productos en línea?	¿Ya vendés productos online?
+p	💰	В цену входят дизайн и разработка.	The price includes design and development.	El precio incluye el diseño y el desarrollo.	
+p	🖥️	Хостинг в стоимость не входит.	Hosting is not included in the price.	El alojamiento web no está incluido en el precio.	El hosting no está incluido en el precio.
+p	🏷️	Я могу предложить вам скидку десять процентов.	I can offer you a ten percent discount.	Puedo ofrecerte un diez por ciento de descuento.	Te puedo ofrecer un diez por ciento de descuento.
+p	💳	Вы можете оплатить в три платежа.	You can pay in three installments.	Puedes dividir el pago en tres plazos.	Podés pagar en tres cuotas.
+p	🧾	Я отправлю счёт сегодня.	I will send the invoice today.	Te enviaré la factura hoy.	Te mando la factura hoy.
+p	🧾	Я выставляю счёт за каждый платёж.	I issue an invoice for every payment.	Emito una factura por cada pago.	Te hago una factura por cada pago.
+p	🚦	Мы начинаем, когда предоплата получена.	We start once the deposit is paid.	Empezamos cuando se paga el anticipo.	Arrancamos cuando se paga la seña.
+p	💸	Первый платёж вносится до начала работ.	The first payment is due before we start.	El primer pago se hace antes de empezar.	El primer pago se hace antes de arrancar.
+p	⏳	Мне нужно две недели, чтобы закончить дизайн.	I need two weeks to finish the design.	Necesito dos semanas para terminar el diseño.	
+p	🚀	Мы можем запуститься до сезона праздников.	We can launch before the holiday season.	Podemos lanzar antes de la temporada de fiestas.	
+p	📸	Пришлите мне фото и тексты, пожалуйста.	Send me the photos and texts, please.	Envíame las fotos y los textos, por favor.	Mandame las fotos y los textos, por favor.
+p	🔑	Мне нужен доступ к вашему аккаунту хостинга.	I need access to your hosting account.	Necesito acceso a tu cuenta de alojamiento.	Necesito acceso a tu cuenta del hosting.
+p	🧪	Мы всё протестируем перед запуском.	We will test everything before launch.	Probaremos todo antes del lanzamiento.	Vamos a probar todo antes del lanzamiento.
+p	💭	Посмотрите дизайн и пришлите свои комментарии.	Please review the design and send feedback.	Revisa el diseño y envíame tus comentarios, por favor.	Revisá el diseño y mandame tus comentarios, por favor.
+p	✏️	В стоимость входят два круга правок.	Two rounds of revisions are included.	Se incluyen dos rondas de revisiones.	Se incluyen dos rondas de correcciones.
+p	➕	Дополнительные правки оплачиваются отдельно.	Extra changes are billed separately.	Los cambios adicionales se cobran aparte.	Los cambios extra se cobran aparte.
+p	❓	Хотите что-нибудь изменить?	Would you like to change anything?	¿Quieres cambiar algo?	¿Querés cambiar algo?
+p	📚	Ваши клиенты смогут увидеть весь каталог.	Your customers can see your full catalog.	Tus clientes podrán ver todo tu catálogo.	Tus clientes van a poder ver todo tu catálogo.
+p	🏷️	Вы сможете сами обновлять цены.	You can update the prices yourself.	Podrás actualizar los precios tú mismo.	Vas a poder actualizar los precios vos mismo.
+p	🎛️	Админ-панелью очень легко пользоваться.	The admin panel is very easy to use.	El panel de administración es muy fácil de usar.	
+p	📧	Клиенты получат письмо с подтверждением.	Customers will receive an email confirmation.	Los clientes recibirán un correo de confirmación.	Los clientes van a recibir un mail de confirmación.
+p	📱	Мы можем добавить QR-код на ваши столики.	We can add a QR code to your tables.	Podemos añadir un código QR a tus mesas.	Podemos agregar un código QR a tus mesas.
+p	📜	Онлайн-меню всегда актуально.	The online menu is always up to date.	El menú en línea siempre está actualizado.	El menú online siempre está actualizado.
+p	🍳	Заказы будут приходить сразу на кухню.	Orders will arrive directly in the kitchen.	Los pedidos llegarán directamente a la cocina.	Los pedidos van a llegar directo a la cocina.
+p	🛒	Ваш интернет-магазин никогда не закрывается.	Your online store never closes.	Tu tienda en línea nunca cierra.	Tu tienda online nunca cierra.
+p	🔍	Мы оптимизируем сайт для Google.	We will optimize the site for Google.	Optimizaremos el sitio para Google.	Vamos a optimizar el sitio para Google.
+p	⚡	Сайт быстро загружается на любом устройстве.	The site loads fast on any device.	El sitio carga rápido en cualquier dispositivo.	
+p	📏	Клиенты смогут фильтровать товары по размеру и цвету.	Customers can filter products by size and color.	Los clientes podrán filtrar productos por talla y color.	Los clientes van a poder filtrar productos por talle y color.
+p	📊	Вы будете получать ежемесячный отчёт о посещениях.	You will get a monthly report of visits.	Recibirás un informe mensual de visitas.	Vas a recibir un informe mensual de visitas.
+p	🛟	Мы предлагаем поддержку после запуска.	We offer support after the launch.	Ofrecemos soporte después del lanzamiento.	
+p	🔧	Если что-то сломается, я это исправлю.	If something breaks, I will fix it.	Si algo falla, lo arreglaré.	Si algo falla, lo arreglo yo.
+p	🔑	Сайт и домен принадлежат вам.	You own the website and the domain.	El sitio web y el dominio son tuyos.	
+p	📝	Подпишите договор и отправьте обратно, пожалуйста.	Please sign the contract and send it back.	Firma el contrato y devuélvemelo, por favor.	Firmá el contrato y devolvémelo, por favor.
+p	🙏	Спасибо, что выбрали нас.	Thank you for choosing us.	Gracias por elegirnos.	
+p	🤝	Рад, что мы сможем работать вместе.	I am glad we can work together.	Me alegra que podamos trabajar juntos.	
+p	📄	У вас есть вопросы по предложению?	Do you have any questions about the proposal?	¿Tienes alguna pregunta sobre la propuesta?	¿Tenés alguna pregunta sobre la propuesta?
+p	🤔	Не торопитесь, подумайте.	Take your time to think about it.	Tómate tu tiempo para pensarlo.	Tomate tu tiempo para pensarlo.
+p	🧩	Я могу подготовить для вас индивидуальное решение.	I can prepare a custom solution for you.	Puedo prepararte una solución a medida.	Te puedo preparar una solución a medida.
+p	🔢	Сколько у вас товаров?	How many products do you have?	¿Cuántos productos tienes?	¿Cuántos productos tenés?
+p	🚚	Вы отправляете заказы по всей стране?	Do you ship to the whole country?	¿Haces envíos a todo el país?	¿Hacés envíos a todo el país?
+p	🔗	Вот ссылка, чтобы посмотреть сайт.	Here is a link to preview the site.	Aquí tienes un enlace para ver el sitio.	Acá tenés un link para ver el sitio.
+p	👍	Вам это подходит?	Does that work for you?	¿Te parece bien?	¿Te cierra?

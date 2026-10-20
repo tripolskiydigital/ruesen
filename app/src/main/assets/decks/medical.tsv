@@ -1,0 +1,121 @@
+type	emoji	ru	en	es	es_ar
+w	📅	запись на приём (к врачу)	appointment	la cita	el turno
+w	👶	педиатр	pediatrician	el pediatra	
+w	🩺	врач-специалист	specialist	el especialista	
+w	🚑	приёмное отделение (скорая помощь)	emergency room	urgencias	la guardia
+w	🏥	медицинская страховка	health insurance	el seguro médico	la obra social
+w	📝	рецепт	prescription	la receta	
+w	⚕️	аптека	pharmacy	la farmacia	
+w	💊	лекарство	medicine	la medicina	el remedio
+w	💊	таблетка	pill	la pastilla	
+w	🍯	сироп	syrup	el jarabe	
+w	💧	капли	drops	las gotas	las gotitas
+w	💉	прививка	vaccine	la vacuna	
+w	🤒	температура (жар)	fever	la fiebre	
+w	😷	кашель	cough	la tos	
+w	🤧	простуда	common cold	el resfriado	el resfrío
+w	🤒	грипп	flu	la gripe	
+w	🗣️	боль в горле	sore throat	el dolor de garganta	
+w	🤕	головная боль	headache	el dolor de cabeza	
+w	🤢	боль в животе	stomachache	el dolor de estómago	el dolor de panza
+w	🚽	диарея (понос)	diarrhea	la diarrea	
+w	🤮	рвота	vomiting	los vómitos	
+w	🔴	сыпь	rash	la erupción cutánea	el sarpullido
+w	🌼	аллергия	allergy	la alergia	
+w	🦠	инфекция	infection	la infección	
+w	🩸	анализ крови	blood test	el análisis de sangre	
+w	🧪	анализ мочи	urine test	el análisis de orina	
+w	🩻	рентген	X-ray	la radiografía	la placa
+w	📡	УЗИ	ultrasound	la ecografía	
+w	🩺	артериальное давление	blood pressure	la tensión arterial	la presión arterial
+w	🌡️	градусник	thermometer	el termómetro	
+w	🥄	дозировка	dose	la dosis	
+w	⚠️	побочный эффект	side effect	el efecto secundario	
+w	🦷	стоматолог	dentist	el dentista	el odontólogo
+w	🦷	кариес	cavity	la caries	
+w	👂	воспаление уха (отит)	ear infection	la otitis	
+w	📋	симптом	symptom	el síntoma	
+w	🔎	диагноз	diagnosis	el diagnóstico	
+w	🩺	лечение	treatment	el tratamiento	
+w	🤕	травма	injury	la lesión	
+w	🟣	синяк	bruise	el moratón	el moretón
+w	🦶	растяжение связок	sprain	el esguince	
+w	🪡	швы	stitches	los puntos de sutura	los puntos
+w	🩹	бинт (повязка)	bandage	la venda	
+w	📆	профилактический осмотр	check-up	la revisión médica	el control médico
+w	⚖️	вес	weight	el peso	
+w	📏	рост	height	la estatura	la altura
+w	🧴	мазь	ointment	la pomada	
+w	💉	укол	injection	la inyección	
+w	🚑	машина скорой помощи	ambulance	la ambulancia	
+w	🪑	зал ожидания	waiting room	la sala de espera	
+w	📄	справка от врача	medical certificate	el certificado médico	
+w	🤧	насморк	runny nose	el moqueo	los mocos
+w	😣	боль	pain	el dolor	
+w	🎈	отёк	swelling	la hinchazón	
+w	🔥	ожог	burn	la quemadura	
+w	💊	антибиотик	antibiotic	el antibiótico	
+w	💊	обезболивающее	painkiller	el analgésico	
+w	👃	спрей для носа	nasal spray	el spray nasal	el aerosol nasal
+w	🌬️	ингалятор	inhaler	el inhalador	la bombita
+w	💓	пульс	pulse	el pulso	
+w	🦴	гипс	cast	la escayola	el yeso
+w	🏥	операция	surgery	la cirugía	
+w	🩹	рана	wound	la herida	
+w	📨	направление (к врачу)	referral	el volante	la derivación
+w	📊	результаты анализов	test results	los resultados	
+w	🫁	астма	asthma	el asma	
+w	😵	головокружение	dizziness	el mareo	
+w	🚽	запор	constipation	el estreñimiento	
+w	🦠	ветрянка	chickenpox	la varicela	
+w	🧫	анализ кала	stool test	el análisis de heces	el análisis de materia fecal
+p	📅	Я хотел бы записаться на приём.	I'd like to make an appointment.	Quisiera pedir una cita.	Quisiera sacar un turno.
+p	🗓️	Есть свободное время на сегодня?	Do you have any openings today?	¿Tienen alguna cita libre hoy?	¿Tienen algún turno libre para hoy?
+p	❌	Мне нужно отменить запись.	I need to cancel my appointment.	Necesito cancelar mi cita.	Necesito cancelar mi turno.
+p	🔄	Можно перенести на следующую неделю?	Can we reschedule for next week?	¿Podemos cambiarla para la semana que viene?	¿Podemos pasarlo para la semana que viene?
+p	🤒	У моей дочери температура со вчерашнего дня.	My daughter has had a fever since yesterday.	Mi hija tiene fiebre desde ayer.	
+p	🤧	У неё кашель и насморк.	She has a cough and a runny nose.	Tiene tos y mocos.	
+p	👉	Болит вот здесь.	It hurts here.	Me duele aquí.	Me duele acá.
+p	🗣️	У неё болит горло.	She has a sore throat.	Le duele la garganta.	
+p	🤮	Её рвало всю ночь.	She has been vomiting all night.	Ha vomitado toda la noche.	Vomitó toda la noche.
+p	🔴	У неё сыпь на спине.	She has a rash on her back.	Tiene una erupción en la espalda.	Tiene un sarpullido en la espalda.
+p	🌼	У неё аллергия на пенициллин.	She is allergic to penicillin.	Es alérgica a la penicilina.	
+p	🥄	Сколько раз в день ей это давать?	How many times a day should she take it?	¿Cuántas veces al día debe tomarlo?	¿Cuántas veces por día tiene que tomarlo?
+p	🍽️	Это нужно принимать во время еды?	Should she take it with food?	¿Debe tomarlo con las comidas?	¿Tiene que tomarlo con las comidas?
+p	📝	Нужен ли рецепт?	Do I need a prescription?	¿Hace falta receta?	
+p	🦠	Это заразно?	Is it contagious?	¿Es contagioso?	
+p	🏥	Моя страховка это покрывает?	Does my insurance cover this?	¿Mi seguro médico cubre esto?	¿Mi obra social cubre esto?
+p	💳	Вы принимаете мою страховку?	Do you accept my health insurance?	¿Aceptan mi seguro médico?	¿Atienden por mi obra social?
+p	📆	Когда нам прийти снова?	When should we come back?	¿Cuándo tenemos que volver?	
+p	🚑	Где находится приёмное отделение?	Where is the emergency room?	¿Dónde está urgencias?	¿Dónde queda la guardia?
+p	🏫	Ей можно завтра в детский сад?	Can she go to kindergarten tomorrow?	¿Puede ir mañana a la guardería?	¿Puede ir mañana al jardín?
+p	📄	Мне нужна справка от врача.	I need a medical certificate.	Necesito un certificado médico.	
+p	⚖️	Она весит пятнадцать килограммов.	She weighs fifteen kilos.	Pesa quince kilos.	
+p	❓	Это серьёзно?	Is it serious?	¿Es grave?	
+p	💊	Ей нужны антибиотики?	Does she need antibiotics?	¿Necesita antibióticos?	
+p	⚠️	Есть ли побочные эффекты?	Are there any side effects?	¿Hay efectos secundarios?	
+p	💉	Все ли прививки у неё сделаны вовремя?	Is she up to date with her vaccines?	¿Tiene las vacunas al día?	
+p	💉	Ей нужна повторная прививка.	She needs her vaccine booster.	Necesita la vacuna de refuerzo.	Necesita el refuerzo de la vacuna.
+p	🩸	Мне нужно сдать анализ крови.	I need to get a blood test.	Necesito hacerme un análisis de sangre.	Tengo que hacerme un análisis de sangre.
+p	🥣	Нужно прийти натощак?	Do I have to fast?	¿Tengo que ir en ayunas?	
+p	📊	Когда будут готовы результаты?	When will the results be ready?	¿Cuándo estarán listos los resultados?	¿Cuándo van a estar listos los resultados?
+p	🤕	Она упала и ударилась головой.	She fell and hit her head.	Se cayó y se golpeó la cabeza.	
+p	😨	Она что-то проглотила.	She swallowed something.	Se ha tragado algo.	Se tragó algo.
+p	🫁	Моей дочери трудно дышать.	My daughter can't breathe well.	Mi hija no puede respirar bien.	
+p	📞	Вызовите скорую, пожалуйста.	Please call an ambulance.	Llame a una ambulancia, por favor.	Llamá a una ambulancia, por favor.
+p	😵	У меня бывают головокружения.	I have dizzy spells.	Tengo mareos.	
+p	🤕	У меня ужасная головная боль.	I have a terrible headache.	Tengo un dolor de cabeza terrible.	
+p	🤒	Мне плохо уже три дня.	I have felt sick for three days.	Hace tres días que me encuentro mal.	Hace tres días que me siento mal.
+p	🍽️	Она плохо ест.	She hasn't been eating well.	No está comiendo bien.	
+p	😴	Она много спит.	She has been sleeping a lot.	Está durmiendo mucho.	
+p	🌡️	У неё температура тридцать девять.	Her temperature is thirty-nine degrees.	Tiene treinta y nueve grados de fiebre.	
+p	💊	Где ближайшая аптека?	Where is the nearest pharmacy?	¿Dónde está la farmacia más cercana?	¿Dónde queda la farmacia más cercana?
+p	🌙	Есть аптека, открытая ночью?	Is there a pharmacy open at night?	¿Hay alguna farmacia abierta de noche?	¿Hay alguna farmacia de turno?
+p	🍯	Это есть в виде сиропа?	Do you have this in syrup?	¿Lo tiene en jarabe?	¿Lo tenés en jarabe?
+p	💊	Есть ли дешёвый аналог?	Is there a generic version?	¿Hay una versión genérica?	¿Tenés uno genérico?
+p	🩺	У меня повышенное давление.	I have high blood pressure.	Tengo la tensión alta.	Tengo la presión alta.
+p	👂	У неё болит ухо.	Her ear hurts.	Le duele el oído.	
+p	🦷	У неё болит зуб.	She has a toothache.	Le duele una muela.	
+p	📨	Можете дать мне направление?	Can you give me a referral?	¿Puede darme un volante?	¿Me podés dar una derivación?
+p	🧾	Мне нужен чек для страховки.	I need a receipt for my insurance.	Necesito el recibo para mi seguro.	Necesito la factura para mi obra social.
+p	😢	Она боится уколов.	She is afraid of injections.	Le dan miedo las inyecciones.	
